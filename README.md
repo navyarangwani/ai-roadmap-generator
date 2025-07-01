@@ -10,4 +10,7 @@ This project is intended to help individuals plan their learning journey efficie
 - Topic breakdowns and resources  
 - An intuitive UI inspired by game-level roadmaps
 
+## Deployed Project Link:
+https://raha-ai-roadmap-generator.streamlit.app/
+
 
