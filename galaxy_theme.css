@@ -1,0 +1,24 @@
+
+<style>
+body {
+    background: url("https://i.ibb.co/qgd2fJh/stars-bg.gif") no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Segoe UI', sans-serif;
+    color: #f8f8f8;
+}
+.css-1v3fvcr {  /* Streamlit main container */
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+h1, h2, h3 {
+    color: #ffffff;
+    text-shadow: 1px 1px 4px #00ffff;
+}
+button[kind="primary"] {
+    background-color: #1f1fff;
+    color: white;
+    border-radius: 8px;
+}
+</style>
