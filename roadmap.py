@@ -3,13 +3,14 @@ from prompts import ai_roadmap_prompt
 from groq import Groq
 from fpdf import FPDF
 from datetime import datetime
-from dotenv import load_dotenv
+
 import os
 import re
 
-# Load environment variables (API key)
-load_dotenv()
+
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+
+
 
 # Load Galaxy theme
 with open("galaxy_theme.css") as f:
