@@ -62,7 +62,24 @@ Run the app
 
 streamlit run roadmap.py
 App will open in your browser at http://localhost:8501
+---
+## Deployed Link
+https://raha-ai-roadmap-generator.streamlit.app/
+---
+## 📊 App Flow / System Architecture
 
+![App Flow](https://drive.google.com/uc?export=view&id=1kWufR8AnpmMYHilIyK2c4-O_T11EaKBG)
+---
+## Screenshots
+
+![Home Page](https://drive.google.com/uc?export=view&id=1QSZ5ExK2OUwZYTc1PLkPlAvB9HDfz_DS)
+
+![Week 1](https://drive.google.com/uc?export=view&id=1Bkfjn5ANHMleYOttEsOIy9Bs2BAHSt4S)
+
+![Weeks View](https://drive.google.com/uc?export=view&id=1-7qt3ILXkrWAKsP_FriuDqfNg0anbCrx)
+
+
+---
 
 ## 👥 Team Members and Contributions
 
@@ -79,6 +96,7 @@ App will open in your browser at http://localhost:8501
   - Designed the Figma UI prototype and created visual flow diagrams.
   - Worked on feature refinement, error handling, and feedback improvements.
   - Co-created the walkthrough video and led documentation and deployment.
+  - ---
 ## 🌱 Future Scope / Improvements
 
 - Add login/signup with user authentication and save progress across sessions.
@@ -88,12 +106,8 @@ App will open in your browser at http://localhost:8501
 - Allow users to share or collaborate on roadmaps with others.
 - Support roadmap generation in multiple languages.
 
-## Screenshots
-![Home Page](https://drive.google.com/uc?export=view&id=1kUcfWCbY68o44YJapkSUWNWb-gcx9gUY)
-![Week 1](https://drive.google.com/uc?export=view&id=1kUZMr8x_zPb1Kip6g6xYpza0GGaXxJoh)
-![Weeks View](https://drive.google.com/uc?export=view&id=1kTk9nGty_pMzY2KFRFFpAN26CdSCJ0th)
 
----
-## Deployed Link
-https://raha-ai-roadmap-generator.streamlit.app/
+
+
+
 
